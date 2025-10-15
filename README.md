@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [VeriSimple](https://veri-simple.com.tr/)
 
-- 👨‍💻 All of my projects are available at [github.com/berkaycelik66](github.com/berkaycelik66)
+- 👨‍💻 All of my projects are available at [github/@berkaycelik66](https://github.com/berkaycelik66?tab=repositories)
 
 - 📫 How to reach me **berkaycelik66@hotmail.com**
 
