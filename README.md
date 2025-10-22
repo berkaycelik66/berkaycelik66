@@ -3,7 +3,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=berkaycelik66&label=Profile%20views&color=0e75b6&style=flat" alt="berkaycelik66" /> 
-  <img src="https://img.shields.io/github/followers/adag21044?label=Followers&style=social" alt="berkaycelik66 followers" />
+  <img src="https://img.shields.io/github/followers/berkaycelik66?label=Followers&style=social" alt="berkaycelik66 followers" />
 </p>
 
 - 🔭 I’m currently working on [VeriSimple](https://veri-simple.com.tr/)
